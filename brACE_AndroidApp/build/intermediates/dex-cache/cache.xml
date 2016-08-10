@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/almell/Dropbox (The MELLEN Company)/BUwork/ec535/Project/bluetooth-spp-terminal-master/bluetooth-spp-terminal/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/almell/Dropbox (The MELLEN Company)/BUwork/ec535/Project/bluetooth-spp-terminal-master/bluetooth-spp-terminal/build/intermediates/pre-dexed/debug/classes-3bc5224960a2ab8840738e991303371b43db1e57.jar" />
+    </item>
+
+</items>
